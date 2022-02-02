@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkmohan&show_icons=true&locale=en&layout=compact" alt="sachinkmohan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkmohan&show_icons=true&locale=en" alt="sachinkmohan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkmohan&show_icons=true&locale=en&theme=merko" alt="sachinkmohan" /></p>
 

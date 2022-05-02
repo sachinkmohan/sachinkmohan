@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sachinkm308@gmail.com**
 
-- ⚡ Fun fact **I think I am multitalented :D**
+- ⚡ Fun fact **I love doodling, lettering on my iPad. I am a beginner in beatboxing, playing ukulele. Currently I am working on my table football skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

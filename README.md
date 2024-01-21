@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working as a Frontend Web Developer using VUEJS. 
 
-- 🌱 I’m currently learning **TensorRT, React-native, UI/UX Development**
+- 🌱 I’m currently learning **React-native, UI/UX Development**
 
 - 📝 I occassionlay write technical articles on [https://sachinkmohan.github.io/](https://sachinkmohan.github.io/)
 
 - 💬 Ask me about **AI, React-native, Jetson**
 
-- 📫 How to reach me **sachinkm308@gmail.com**
+- 📫 How to reach me **sachinkmohan@proton.me**
 
 - ⚡ Fun fact **I love doodling, lettering on my iPad. I am a beginner in beatboxing, playing ukulele. Currently I am working on my table football skills**
 

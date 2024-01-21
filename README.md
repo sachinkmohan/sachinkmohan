@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinkmohan" alt="sachinkmohan" /></a> </p>
 
-- 🔭 I’m currently working on **my Thesis**
+- 🔭 I’m currently working as a Frontend Web Developer using VUEJS. 
 
 - 🌱 I’m currently learning **TensorRT, React-native, UI/UX Development**
 

@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinkmohan" alt="sachinkmohan" /></a> </p>
 
-- 🔭 I’m currently working as a Frontend Web Developer using VUEJS. 
+- 🔭 I’m currently working as a Frontend Web Developer using VUEJS and REACT JS.
 
-- 🌱 I’m currently learning **React-native, UI/UX Development**
+- 🌱 I’m currently learning **React in Depth, UI/UX Development**
 
 - 📝 I occassionlay write technical articles on [https://sachinkmohan.github.io/](https://sachinkmohan.github.io/)
 
-- 💬 Ask me about **AI, React-native, Jetson**
+- 💬 Ask me about **AI, VUE, React, Jetson**
 
 - 📫 How to reach me **sachinkmohan@proton.me**
 
